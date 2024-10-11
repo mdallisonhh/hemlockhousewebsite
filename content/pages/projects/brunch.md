@@ -6,9 +6,9 @@ client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/Brunch.png
-  altText: Brunch
-  caption: Brunch
+  url: /images/High Resolution Brunch JPEG.jpg
+  altText: Brunch Menu
+  caption: Brunch Menu
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
@@ -21,7 +21,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Brunch.png
+  url: /images/High Resolution Brunch JPEG.jpg
   altText: Brunch Menu
   caption: Brunch Menu
   elementId: ''
