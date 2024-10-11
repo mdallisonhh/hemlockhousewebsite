@@ -16,7 +16,7 @@ media:
   altText: Brunch
   caption: Brunch
   elementId: ''
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
