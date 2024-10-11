@@ -44,7 +44,7 @@ sections:
         caption: Brunch
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Beverages Conserves.png
         altText: 'Beverages, Conserves & Snacks'
         caption: 'Beverages, Conserves & Snacks'
         elementId: ''
