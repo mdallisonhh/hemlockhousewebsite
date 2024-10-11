@@ -19,7 +19,7 @@ type ComponentProps = PageComponentProps &
 
 const Component: React.FC<ComponentProps> = (props) => {
     const { global, ...page } = props;
-    const { title, date, client, description, markdownContent, media, prevProject, nextProject, bottomSections = [] } = page;
+    const { title, date, client, description, markdownContent, media, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MM-DD-YYYY');
 
