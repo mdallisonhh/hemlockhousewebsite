@@ -21,7 +21,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/High Resolution Dinner JPEG.jpg
+  url: /images/High Resolution Brunch JPEG.jpg
   altText: Brunch Menu
   caption: Brunch Menu
   elementId: ''
