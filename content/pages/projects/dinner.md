@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Dinner.png
   altText: Dinner
-  caption: Brunch
+  caption: Dinner
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
