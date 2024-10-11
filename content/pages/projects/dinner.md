@@ -18,7 +18,7 @@ backgroundImage:
 featuredImage:
   type: ImageBlock
   url: /images/Dinner.png
-  altText: altText of the image
+  altText: Dinner
   caption: Caption of the image
   elementId: ''
 ---
