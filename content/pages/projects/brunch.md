@@ -6,7 +6,7 @@ client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/Brunch.png
+  url: /images/High Resolution Brunch JPEG.jpg
   altText: Brunch
   caption: Brunch
   elementId: ''
