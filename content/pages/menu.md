@@ -90,7 +90,7 @@ sections:
       - type: Link
         label: See all projects
         altText: See all projects
-        url: /projects
+        url: /menus
         showIcon: false
         icon: arrowRight
         iconPosition: right
