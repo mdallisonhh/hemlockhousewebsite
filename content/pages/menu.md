@@ -48,7 +48,7 @@ sections:
     projects:
       - content/pages/projects/brunch.md
     colors: colors-f
-    variant: variant-c
+    variant: variant-d
     elementId: ''
     showDate: false
     showDescription: true
