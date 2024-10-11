@@ -4,12 +4,6 @@ title: Brunch
 date: '2024-10-11'
 client: ''
 description: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/Brunch.png
-  altText: Brunch
-  caption: Brunch
-  elementId: ''
 media:
   type: ImageBlock
   url: /images/Brunch.png
