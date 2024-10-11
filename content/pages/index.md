@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: TextSection
-    colors: colors-d
+    colors: colors-f
     variant: variant-b
     title: Hours of Operation
     subtitle: Open 7 Days a Week
