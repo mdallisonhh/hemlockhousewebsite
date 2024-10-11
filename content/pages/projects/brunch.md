@@ -7,7 +7,7 @@ description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Brunch.png
-  altText: Project thumbnail image
+  altText: Brunch
   caption: ''
   elementId: ''
 media:
