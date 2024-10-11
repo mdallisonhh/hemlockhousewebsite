@@ -36,7 +36,7 @@ sections:
         justifyContent: flex-start
   - type: MediaGallerySection
     title: Menus
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
