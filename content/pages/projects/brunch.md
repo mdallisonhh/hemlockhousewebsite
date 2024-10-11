@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Brunch.png
   altText: Brunch
-  caption: ''
+  caption: Brunch
   elementId: ''
 media:
   type: ImageBlock
