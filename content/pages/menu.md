@@ -56,7 +56,7 @@ sections:
       - type: ImageBlock
         url: /images/gallery-4.jpg
         altText: Beer & Wine
-        caption: Image four caption
+        caption: Beer & Wine
         elementId: ''
     colors: colors-f
     spacing: 16
