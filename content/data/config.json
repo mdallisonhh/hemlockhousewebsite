@@ -51,7 +51,7 @@
         "primaryLinks": [
             {
                 "type": "Button",
-                "label": "Menu",
+                "label": "Menus",
                 "altText": "",
                 "url": "/menu",
                 "showIcon": false,
