@@ -35,7 +35,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
