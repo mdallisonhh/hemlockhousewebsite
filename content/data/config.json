@@ -19,16 +19,7 @@
                 "url": "/"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "https://www.instagram.com/hemlockhouse412/",
-                "icon": "instagram",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
