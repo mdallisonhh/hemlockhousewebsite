@@ -25,6 +25,6 @@ media:
   type: ImageBlock
   url: /images/Dinner.png
   altText: Dinner
-  caption: Caption of the image
+  caption: Dinner
   elementId: ''
 ---
