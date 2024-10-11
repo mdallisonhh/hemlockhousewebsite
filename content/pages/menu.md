@@ -39,6 +39,7 @@ sections:
     actions: []
     projects:
       - content/pages/projects/brunch.md
+      - content/pages/projects/dinner.md
     colors: colors-f
     variant: variant-d
     elementId: ''
