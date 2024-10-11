@@ -51,7 +51,7 @@ sections:
       - type: ImageBlock
         url: /images/Brunch.png
         altText: Brunch
-        caption: Brunch
+        caption: <a href="" text="Brunch"></a>
         elementId: ''
       - type: ImageBlock
         url: /images/Beer Wine.png
