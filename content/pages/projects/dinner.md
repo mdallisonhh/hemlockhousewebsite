@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Brunch.png
+  url: /images/Dinner.png
   altText: Brunch
   caption: Brunch
   elementId: ''
