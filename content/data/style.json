@@ -8,7 +8,7 @@
     "onPrimary": "#ffffff",
     "secondary": "#454545",
     "onSecondary": "#ffffff",
-    "complementary": "#797979",
+    "complementary": "#9d9d9d",
     "onComplementary": "#000000",
     "fontBody": "fontPrimary",
     "h1": {
