@@ -40,7 +40,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
-        altText: Image one
+        altText: Brunch
         caption: Brunch
         elementId: ''
       - type: ImageBlock
