@@ -84,33 +84,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: RecentProjectsSection
-    subtitle: Projects
-    actions: []
-    colors: colors-d
-    variant: variant-b
-    elementId: ''
-    recentCount: 5
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
 metaTags: []
 colors: colors-a
 backgroundImage:
