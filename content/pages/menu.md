@@ -71,6 +71,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Menus
 metaTags: []
 colors: colors-a
 backgroundImage:
