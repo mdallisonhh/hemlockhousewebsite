@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Brunch
+title: Dinner
 date: '2024-10-11'
 client: ''
 description: ''
