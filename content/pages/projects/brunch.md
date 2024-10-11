@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Brunch.png
-  altText: Project image
+  altText: Brunch
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
