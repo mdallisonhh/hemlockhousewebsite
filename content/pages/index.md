@@ -46,7 +46,7 @@ sections:
     colors: colors-d
     variant: variant-b
     title: Hours of Operation
-    subtitle: Open Daily
+    subtitle: Open 7 Days a Week
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
