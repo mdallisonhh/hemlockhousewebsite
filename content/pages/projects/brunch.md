@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Brunch
 date: '2024-10-11'
-client: ''
+client: thing
 description: ''
 media:
   type: ImageBlock
