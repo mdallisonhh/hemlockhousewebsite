@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Menu
 sections:
   - type: HeroSection
     title: Hemlock House
