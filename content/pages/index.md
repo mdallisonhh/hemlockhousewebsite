@@ -108,4 +108,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: |
+      1126 South Braddock Avenue, Swissvale, PA 15218
 ---
