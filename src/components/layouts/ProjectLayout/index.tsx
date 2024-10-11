@@ -12,14 +12,11 @@ import { Annotated } from '@/components/Annotated';
 import { PageComponentProps, ProjectLayout } from '@/types';
 
 type ComponentProps = PageComponentProps &
-    ProjectLayout & {
-        prevProject?: ProjectLayout;
-        nextProject?: ProjectLayout;
-    };
+    ProjectLayout;
 
 const Component: React.FC<ComponentProps> = (props) => {
     const { global, ...page } = props;
-    const { title, date, client, description, markdownContent, media, prevProject, nextProject, bottomSections = [] } = page;
+    const { title, date, client, description, markdownContent, media, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MM-DD-YYYY');
 
@@ -50,14 +47,6 @@ const Component: React.FC<ComponentProps> = (props) => {
                         )}
                     </div>
                 </article>
-                {(prevProject || nextProject) && (
-                    <nav className="sb-project-nav px-4 sm:px-8 mt-12 mb-20">
-                        <div className="max-w-5xl mx-auto grid gap-x-6 gap-y-12 md:grid-cols-2 lg:gap-x-8">
-                            {prevProject && <ProjectNavItem project={prevProject} label="Previous project" />}
-                            {nextProject && <ProjectNavItem project={nextProject} label="Next project" />}
-                        </div>
-                    </nav>
-                )}
                 {bottomSections.length > 0 && (
                     <div>
                         {bottomSections.map((section, index) => {
