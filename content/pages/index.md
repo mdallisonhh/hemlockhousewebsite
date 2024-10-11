@@ -43,17 +43,30 @@ sections:
     type: HeroSection
     actions: []
   - type: TextSection
-    colors: colors-d
+    colors: colors-f
     variant: variant-b
-    title: The Section Title
-    subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    title: Hours of Operation
+    subtitle: Open 7 Days a Week
+    text: |
+      ###### Monday - Thursday
+
+      11 am - 12 am *(kitchen closes at 11)*
+
+      ###### Friday
+
+      11 am - 2 am *(kitchen closes at 11)*
+
+      ###### Saturday
+
+      Brunch 10 am - 3 pm
+
+      Dinner 4 pm - 2 am *(kitchen closes at 11)*
+
+      ###### Sunday
+
+      Brunch 10 am - 3 pm
+
+      Dinner 4 pm - 2 am *(kitchen closes at 11)*
     elementId: ''
     styles:
       self:
