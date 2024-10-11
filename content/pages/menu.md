@@ -54,7 +54,7 @@ sections:
         caption: Brunch
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Beer Wine.png
         altText: Beer & Wine
         caption: Beer & Wine
         elementId: ''
