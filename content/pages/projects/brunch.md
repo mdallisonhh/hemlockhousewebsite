@@ -22,7 +22,7 @@ backgroundImage:
 featuredImage:
   type: ImageBlock
   url: /images/Brunch.png
-  altText: Brunch
-  caption: Brunch
+  altText: Brunch Menu
+  caption: Brunch Menu
   elementId: ''
 ---
