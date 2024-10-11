@@ -63,7 +63,7 @@ sections:
         altText: Cocktails & Liquor
         caption: Cocktails & Liquor
         elementId: ''
-    colors: colors-f
+    colors: colors-a
     spacing: 16
     columns: 5
     aspectRatio: '4:3'
