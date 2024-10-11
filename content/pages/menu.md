@@ -45,7 +45,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-2.jpg
-        altText: Image two
+        altText: Beverages & Conserves
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
