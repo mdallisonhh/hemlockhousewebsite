@@ -4,12 +4,6 @@ title: Dinner
 date: '2024-10-11'
 client: ''
 description: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/Dinner.png
-  altText: Dinner
-  caption: Dinner
-  elementId: ''
 bottomSections: []
 addTitleSuffix: true
 metaTags: []
