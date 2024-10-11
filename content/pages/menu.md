@@ -98,7 +98,7 @@ sections:
     colors: colors-d
     variant: variant-b
     elementId: ''
-    recentCount: 6
+    recentCount: 5
     showDate: false
     showDescription: true
     showFeaturedImage: true
