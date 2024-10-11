@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: ContactSection
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     title: Talk to Us
     form:
