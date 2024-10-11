@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Logo Just House White.svg
+  url: /images/Website Background Lower Opacity.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
