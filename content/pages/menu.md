@@ -39,7 +39,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Dinner.png
         altText: Brunch
         caption: Brunch
         elementId: ''
