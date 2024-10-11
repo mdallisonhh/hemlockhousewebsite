@@ -62,7 +62,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "Home",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
