@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Brunch
 date: '2024-10-11'
 client: ''
-description: thing
+description: ''
 media:
   type: ImageBlock
   url: /images/Brunch.png
