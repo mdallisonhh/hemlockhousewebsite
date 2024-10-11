@@ -18,12 +18,12 @@ backgroundImage:
 featuredImage:
   type: ImageBlock
   url: /images/Dinner.png
-  altText: Dinner
-  caption: Dinner
+  altText: Dinner Menu
+  caption: Dinner Menu
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Dinner.png
+  url: /images/High Resolution Dinner JPEG.jpg
   altText: Dinner Menu
   caption: Dinner Menu
   elementId: ''
