@@ -19,7 +19,16 @@
                 "url": "/"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "instagram",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
