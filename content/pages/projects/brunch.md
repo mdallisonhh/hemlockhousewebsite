@@ -7,7 +7,7 @@ description: ''
 media:
   type: ImageBlock
   url: /images/High Resolution Brunch JPEG.jpg
-  altText: Brunch
+  altText: Brunch Menu
   caption: Brunch
   elementId: ''
 addTitleSuffix: true
