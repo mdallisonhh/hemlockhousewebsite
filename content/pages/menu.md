@@ -34,56 +34,36 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: MediaGallerySection
-    title: Menus
+  - type: FeaturedProjectsSection
     subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Dinner.png
-        altText: Brunch
-        caption: Brunch
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Beverages Conserves.png
-        altText: 'Beverages, Conserves & Snacks'
-        caption: 'Beverages, Conserves & Snacks'
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Brunch.png
-        altText: Brunch
-        caption: Brunch
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Beer Wine.png
-        altText: Beer & Wine
-        caption: Beer & Wine
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Cocktails Liquor.png
-        altText: Cocktails & Liquor
-        caption: Cocktails & Liquor
-        elementId: ''
+    actions: []
+    projects:
+      - content/pages/projects/brunch.md
+      - content/pages/projects/dinner.md
     colors: colors-f
-    spacing: 16
-    columns: 5
-    aspectRatio: '4:3'
-    showCaption: true
-    enableHover: true
+    variant: variant-d
     elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         padding:
-          - pt-12
-          - pb-12
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: Menus
 metaTags: []
 colors: colors-a
 backgroundImage:
