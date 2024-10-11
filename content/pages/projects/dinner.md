@@ -18,7 +18,7 @@ backgroundImage:
 featuredImage:
   type: ImageBlock
   url: /images/Dinner.png
-  altText: Dinner
+  altText: Dinner Menu
   caption: Dinner
   elementId: ''
 media:
