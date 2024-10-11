@@ -78,7 +78,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "(412) 660-2742",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "Our phone number",
             "email": "admin@hemlockhousepgh.com",
             "emailAltText": "Email",
             "address": "",
