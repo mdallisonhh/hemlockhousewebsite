@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     title: Hemlock House
     subtitle: Irreverent Food & Cocktails
     styles:
