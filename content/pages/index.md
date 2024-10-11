@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: ContactSection
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
     title: "Got an interesting project? Tell me more...\U0001F4AC"
     form:
