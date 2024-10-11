@@ -121,17 +121,6 @@ export const ProjectLayoutModel: Model = {
                 }
             ],
             default: 'colors-a'
-        },
-        {
-            type: 'model',
-            name: 'backgroundImage',
-            group: 'styles',
-            label: 'Project background image',
-            models: ['BackgroundImage'],
-            default: {
-                type: 'BackgroundImage',
-                url: '/images/bg2.jpg'
-            }
         }
     ]
 };
