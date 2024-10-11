@@ -50,7 +50,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-3.jpg
-        altText: Image three
+        altText: Brunch
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
