@@ -10,12 +10,6 @@ featuredImage:
   altText: Dinner
   caption: Dinner
   elementId: ''
-media:
-  type: ImageBlock
-  url: /images/Dinner.png
-  altText: Dinner
-  caption: Dinner
-  elementId: ''
 bottomSections: []
 addTitleSuffix: true
 metaTags: []
