@@ -45,7 +45,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Talk to Us
+    title: ''
     form:
       type: FormBlock
       elementId: sign-up-form
