@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Brunch.png
   altText: Brunch
-  caption: Caption of the image
+  caption: Brunch
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
