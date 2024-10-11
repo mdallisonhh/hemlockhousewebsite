@@ -23,6 +23,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Brunch.png
   altText: Brunch Menu
-  caption: Brunch
+  caption: Brunch Menu
   elementId: ''
 ---
