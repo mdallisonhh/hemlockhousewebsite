@@ -61,7 +61,7 @@ sections:
       - type: ImageBlock
         url: /images/Cocktails Liquor.png
         altText: Cocktails & Liquor
-        caption: Caption of the image
+        caption: Cocktails & Liquor
         elementId: ''
     colors: colors-f
     spacing: 16
