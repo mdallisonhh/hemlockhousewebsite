@@ -46,7 +46,7 @@ sections:
     colors: colors-d
     variant: variant-b
     title: Hours of Operation
-    subtitle: The section subtitle
+    subtitle: Open Daily
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
