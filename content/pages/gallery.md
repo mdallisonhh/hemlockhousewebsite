@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Gallery
 sections:
   - type: TextSection
     colors: colors-f
