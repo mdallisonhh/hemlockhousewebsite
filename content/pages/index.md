@@ -59,7 +59,7 @@ sections:
 
       Brunch 10 am - 3 pm
 
-      Dinner 4 pm - 2 am *(kitchen closes at 11)*
+      Dinner 4 pm - 11 pm *(kitchen closes at 10)*
     elementId: ''
     styles:
       self:
