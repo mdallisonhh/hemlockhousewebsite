@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "Gift Cards",
                 "altText": "",
-                "url": "https://squareup.com/gift/MLKS77KNNHFEF/order/\"target=\"_blank\"",
+                "url": "javascript:window.open('http://www.google.com', '_blank'https://squareup.com/gift/MLKS77KNNHFEF/order/\"target=\"_blank\"",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
