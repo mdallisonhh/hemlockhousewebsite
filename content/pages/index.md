@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/Website Background Lower Opacity.svg
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
