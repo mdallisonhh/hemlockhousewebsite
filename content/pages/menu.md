@@ -2,38 +2,6 @@
 type: PageLayout
 title: Menus
 sections:
-  - type: HeroSection
-    title: Hemlock House
-    subtitle: Irreverent Food & Cocktails
-    actions: []
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedProjectsSection
     subtitle: ''
     actions: []
