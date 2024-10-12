@@ -10,38 +10,29 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    title: Hemlock House
-    subtitle: Irreverent Food & Cocktails
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: |
+      ![](/images/Logo%20Only%20Text.svg)
+    elementId: ''
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: narrow
         padding:
-          - pt-8
-          - pb-12
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
         textAlign: left
       text:
         textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - type: TextSection
     colors: colors-f
     variant: variant-b
