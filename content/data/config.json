@@ -62,7 +62,7 @@
                 "type": "Link",
                 "label": "Delivery",
                 "altText": "",
-                "url": "https://www.ubereats.com/store/hemlock-house/\"target=\"_blank\"",
+                "url": "javascript:window.open('https://www.ubereats.com/store/hemlock-house/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
