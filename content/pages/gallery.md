@@ -43,7 +43,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2495.jpg
-        altText: Image three
+        altText: Dante's Beak
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
