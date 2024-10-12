@@ -59,7 +59,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2734-Enhanced-NR.jpg
-        altText: altText of the image
+        altText: Decor
         caption: Caption of the image
         elementId: ''
     colors: colors-f
