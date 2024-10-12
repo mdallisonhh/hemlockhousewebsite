@@ -89,7 +89,7 @@
             },
             {
                 "type": "Button",
-                "label": "Home",
+                "label": "Reservations",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
