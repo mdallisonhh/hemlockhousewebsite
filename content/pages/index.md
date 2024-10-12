@@ -85,7 +85,7 @@ sections:
       text:
         textAlign: left
   - type: CtaSection
-    title: Let's do this
+    title: Industry Mondays
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
