@@ -62,8 +62,7 @@ sections:
         caption: Decor
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/Talk Show.png
         altText: Talk Pittsburgh
         caption: Talk Pittsburgh
         elementId: ''
