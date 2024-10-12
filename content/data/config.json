@@ -111,7 +111,7 @@
                 "type": "Button",
                 "label": "Gift Cards",
                 "altText": "",
-                "url": "https://squareup.com/gift/MLKS77KNNHFEF/order/\"target=\"_blank\"",
+                "url": "javascript:window.open('https://squareup.com/gift/MLKS77KNNHFEF/order/\"target=\"_blank\"",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
