@@ -42,12 +42,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/Logo Only Text.svg
-      altText: Hemlock House
-      caption: Hemlock House
-      elementId: ''
   - type: TextSection
     colors: colors-f
     variant: variant-b
