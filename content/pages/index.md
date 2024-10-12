@@ -42,7 +42,7 @@ sections:
       - type: Button
         label: Order for Pickup
         altText: Order for Pickup
-        url: 'http://hemlock-house.square.site/'', ''_blank'');'
+        url: 'javascript:window.open(''http://hemlock-house.square.site/'', ''_blank'');'
         showIcon: true
         icon: arrowRight
         iconPosition: right
