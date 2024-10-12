@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Cocktails Liquor White Background SVG.svg
-  altText: 'Cocktails, Liquor Menu'
+  altText: 'Beer, Wine Menu'
   caption: 'Cocktails, Liquor Menu'
   elementId: ''
 bottomSections: []
