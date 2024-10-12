@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Cocktails, Liquor'
+title: 'Beer, Wine'
 date: '2024-10-11'
 client: ''
 description: ''
