@@ -46,7 +46,7 @@ sections:
       type: ImageBlock
       url: /images/Logo Only Text.svg
       altText: Hemlock House
-      caption: Caption of the image
+      caption: Hemlock House
       elementId: ''
   - type: TextSection
     colors: colors-f
