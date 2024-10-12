@@ -48,7 +48,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2210.jpg
-        altText: Image four
+        altText: Hushpuppies
         caption: Image four caption
         elementId: ''
     colors: colors-f
