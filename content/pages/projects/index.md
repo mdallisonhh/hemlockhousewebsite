@@ -96,4 +96,3 @@ bottomSections:
       text:
         textAlign: left
 ---
-<script>window.location.replace("/menu");</script>
