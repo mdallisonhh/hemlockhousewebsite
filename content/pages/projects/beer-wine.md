@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Cocktails Liquor White Background SVG.svg
+  url: /images/Beer Wine White Background SVG.svg
   altText: 'Cocktails, Liquor Menu'
   caption: 'Cocktails, Liquor Menu'
   elementId: ''
