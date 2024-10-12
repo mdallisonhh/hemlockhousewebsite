@@ -49,7 +49,7 @@ sections:
       - type: ImageBlock
         url: /images/IMG_2630.jpg
         altText: Kimchi Burger
-        caption: Crab and Bacon Hushpuppies
+        caption: Kimchi Burger
         elementId: ''
       - type: ImageBlock
         url: /images/Pittsburgh Magazine.png
