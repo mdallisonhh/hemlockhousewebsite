@@ -86,9 +86,9 @@ sections:
         textAlign: left
   - type: CtaSection
     title: Industry Mondays
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Special industry night food and beverage features, and industry workers
+      get 20% off their checks until midnight
     actions:
       - type: Button
         label: Try it now
