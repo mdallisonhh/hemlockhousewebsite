@@ -1,3 +1,4 @@
+<script>window.location.replace("/menu");</script>
 ---
 type: ProjectFeedLayout
 title: Projects
