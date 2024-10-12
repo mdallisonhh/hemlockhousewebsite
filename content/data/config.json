@@ -51,7 +51,7 @@
             {
                 "type": "Link",
                 "label": "Pickup",
-                "altText": "",
+                "altText": "Order for Pickup",
                 "url": "hemlock-house.square.site",
                 "showIcon": false,
                 "icon": "arrowRight",
