@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Dinner Menu White Background SVG.svg
+  url: /images/Snacks Menu White Background SVG.svg
   altText: Brunch Menu
   caption: Brunch Menu
   elementId: ''
