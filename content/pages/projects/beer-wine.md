@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Beer Wine White Background SVG.svg
   altText: 'Beer, Wine Menu'
-  caption: 'Cocktails, Liquor Menu'
+  caption: 'Beer, Wine Menu'
   elementId: ''
 media:
   type: ImageBlock
