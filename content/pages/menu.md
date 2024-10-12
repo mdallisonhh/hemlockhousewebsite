@@ -40,6 +40,9 @@ sections:
     projects:
       - content/pages/projects/brunch.md
       - content/pages/projects/dinner.md
+      - content/pages/projects/snacks.md
+      - content/pages/projects/beer-wine.md
+      - content/pages/projects/cocktails-liquor.md
     colors: colors-f
     variant: variant-d
     elementId: ''
