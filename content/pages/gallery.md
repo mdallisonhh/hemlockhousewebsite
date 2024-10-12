@@ -47,7 +47,7 @@ sections:
         caption: Dante's Beak
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2210.jpg
+        url: /images/IMG_2630.jpg
         altText: Crab and Bacon Hushpuppies
         caption: Crab and Bacon Hushpuppies
         elementId: ''
