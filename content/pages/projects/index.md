@@ -1,4 +1,3 @@
-<script>window.location.replace("/menu");</script>
 ---
 type: ProjectFeedLayout
 title: Projects
@@ -97,3 +96,4 @@ bottomSections:
       text:
         textAlign: left
 ---
+<script>window.location.replace("/menu");</script>
