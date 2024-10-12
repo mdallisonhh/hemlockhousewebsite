@@ -38,7 +38,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2591.jpg
-        altText: Image two
+        altText: It's ... Green
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
