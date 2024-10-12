@@ -54,7 +54,7 @@ sections:
       - type: ImageBlock
         url: /images/IMG_2335.jpg
         altText: Mac 'n' Cheese
-        caption: Caption of the image
+        caption: Mac 'n' Cheese
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2734-Enhanced-NR.jpg
