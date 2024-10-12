@@ -37,6 +37,14 @@
                 "url": "https://www.instagram.com/hemlockhouse412/",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.facebook.com/profile.php?id=100093367883327",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
