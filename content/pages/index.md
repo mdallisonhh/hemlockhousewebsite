@@ -45,7 +45,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Logo Only Text.svg
-      altText: altText of the image
+      altText: Hemlock House
       caption: Caption of the image
       elementId: ''
   - type: TextSection
