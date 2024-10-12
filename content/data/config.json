@@ -47,6 +47,26 @@
                 "icon": "send",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Pickup",
+                "altText": "Order for Pickup",
+                "url": "hemlock-house.square.site",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Delivery",
+                "altText": "",
+                "url": "https://www.ubereats.com/store/hemlock-house/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
@@ -89,6 +109,17 @@
             },
             {
                 "type": "Button",
+                "label": "Gift Cards",
+                "altText": "",
+                "url": "https://squareup.com/gift/MLKS77KNNHFEF/order",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
                 "label": "Reservations",
                 "altText": "Reservations",
                 "url": "https://tableagent.com/pittsburgh/hemlock-house/",
@@ -100,9 +131,20 @@
             },
             {
                 "type": "Button",
-                "label": "Gift Cards",
+                "label": "Pickup",
                 "altText": "",
-                "url": "https://squareup.com/gift/MLKS77KNNHFEF/order",
+                "url": "hemlock-house.square.site/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Delivery",
+                "altText": "Delivery",
+                "url": "https://www.ubereats.com/store/hemlock-house/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
