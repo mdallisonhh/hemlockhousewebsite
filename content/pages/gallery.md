@@ -48,7 +48,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2630.jpg
-        altText: Crab and Bacon Hushpuppies
+        altText: Kimchi Burger
         caption: Crab and Bacon Hushpuppies
         elementId: ''
       - type: ImageBlock
