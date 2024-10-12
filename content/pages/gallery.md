@@ -60,7 +60,7 @@ sections:
       - type: ImageBlock
         url: /images/IMG_2734-Enhanced-NR.jpg
         altText: Decor
-        caption: Caption of the image
+        caption: Decor
         elementId: ''
     colors: colors-f
     spacing: 16
