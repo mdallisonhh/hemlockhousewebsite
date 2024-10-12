@@ -47,11 +47,6 @@ sections:
         caption: It's ... Green
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2495.jpg
-        altText: Dante's Beak
-        caption: Dante's Beak
-        elementId: ''
-      - type: ImageBlock
         url: /images/IMG_2630.jpg
         altText: Kimchi Burger
         caption: Kimchi Burger
@@ -70,6 +65,11 @@ sections:
         url: /images/IMG_2734-Enhanced-NR.jpg
         altText: Decor
         caption: Decor
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_2495.jpg
+        altText: Dante's Beak
+        caption: Dante's Beak
         elementId: ''
     colors: colors-f
     spacing: 16
