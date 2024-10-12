@@ -133,7 +133,7 @@
                 "type": "Button",
                 "label": "Pickup",
                 "altText": "",
-                "url": "http://hemlock-house.square.site/\"target=\"_blank\"",
+                "url": "http://hemlock-house.square.site/', '_blank');",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
