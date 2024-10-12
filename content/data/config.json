@@ -17,6 +17,16 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://squareup.com/gift/MLKS77KNNHFEF/order",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
