@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Dinner Menu White Background SVG.svg
-  altText: Brunch Menu
+  altText: 'Beverages, Snacks, Conservas Menu'
   caption: Brunch Menu
   elementId: ''
 bottomSections: []
