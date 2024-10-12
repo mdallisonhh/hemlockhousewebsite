@@ -51,7 +51,7 @@ sections:
         altText: See the menus
         url: /
         showIcon: true
-        icon: chevronLeft
+        icon: apple
         iconPosition: right
         style: primary
         elementId: ''
