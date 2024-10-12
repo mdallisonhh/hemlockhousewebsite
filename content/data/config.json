@@ -10,13 +10,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Menus",
-                "url": "/menu"
+                "label": "Home",
+                "url": "/"
             },
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/"
+                "label": "Menus",
+                "url": "/menu"
             },
             {
                 "type": "Link",
