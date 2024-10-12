@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Cocktails Liquor White Background SVG.svg
   altText: 'Beer, Wine Menu'
-  caption: 'Cocktails, Liquor Menu'
+  caption: 'Beer, Wine Menu'
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
