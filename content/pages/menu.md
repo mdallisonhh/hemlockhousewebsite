@@ -70,7 +70,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: ''
     text: |
       ![](/images/Logo%20Only%20Text.svg)
     elementId: ''
