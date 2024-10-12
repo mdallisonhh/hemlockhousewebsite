@@ -1,5 +1,4 @@
 ---
-<script>window.location.replace("./menu.html");</script>
 type: ProjectFeedLayout
 title: Projects
 colors: colors-a
