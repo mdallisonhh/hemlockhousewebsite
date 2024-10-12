@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: CtaSection
-    title: Industry Mondays
+    title: ''
     text: >
       Special industry night food and beverage features, and industry workers
       get 20% off their checks until midnight
