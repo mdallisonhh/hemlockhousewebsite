@@ -44,7 +44,7 @@ sections:
       - content/pages/projects/beer-wine.md
       - content/pages/projects/cocktails-liquor.md
     colors: colors-f
-    variant: variant-b
+    variant: variant-d
     elementId: ''
     showDate: false
     showDescription: true
