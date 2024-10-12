@@ -48,7 +48,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2210.jpg
-        altText: Hushpuppies
+        altText: Crab and Bacon Hushpuppies
         caption: Hushpuppies
         elementId: ''
     colors: colors-f
