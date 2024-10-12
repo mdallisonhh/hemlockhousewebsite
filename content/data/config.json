@@ -44,7 +44,7 @@
                 "altText": "Reserve a Table",
                 "url": "https://tableagent.com/pittsburgh/hemlock-house/",
                 "showIcon": false,
-                "icon": "arrowRight",
+                "icon": "send",
                 "iconPosition": "right",
                 "elementId": ""
             }
