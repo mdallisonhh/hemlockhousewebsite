@@ -47,9 +47,19 @@ sections:
         caption: Dante's Beak
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2210.jpg
-        altText: Crab and Bacon Hushpuppies
-        caption: Crab and Bacon Hushpuppies
+        url: /images/IMG_2630.jpg
+        altText: Kimchi Burger
+        caption: Kimchi Burger
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Pittsburgh Magazine.png
+        altText: Pittsburgh Magazine
+        caption: Pittsburgh Magazine
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Talk Show.png
+        altText: Talk Pittsburgh
+        caption: Talk Pittsburgh
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2335.jpg
