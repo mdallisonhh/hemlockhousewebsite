@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Dinner Menu White Background SVG.svg
+  url: /images/Snacks Menu White Background SVG.svg
   altText: 'Beverages, Snacks, Conservas Menu'
   caption: 'Beverages, Snacks, Conservas Menu'
   elementId: ''
