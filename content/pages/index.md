@@ -40,7 +40,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Order Online
+        label: Order for Pickup
         altText: Order Online
         url: hemlock-house.square.site
         showIcon: true
