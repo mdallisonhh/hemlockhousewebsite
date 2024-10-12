@@ -68,7 +68,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Pittsburgh Magazine.png
-        altText: altText of the image
+        altText: Pittsburgh Magazine
         caption: Caption of the image
         elementId: ''
     colors: colors-f
