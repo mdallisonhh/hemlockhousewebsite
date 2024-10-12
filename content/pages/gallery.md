@@ -37,14 +37,14 @@ sections:
         caption: Uni Bucatini
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2591.jpg
-        altText: It's ... Green
-        caption: It's ... Green
-        elementId: ''
-      - type: ImageBlock
         url: /images/Pittsburgh Magazine.png
         altText: Pittsburgh Magazine
         caption: Pittsburgh Magazine
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_2591.jpg
+        altText: It's ... Green
+        caption: It's ... Green
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2495.jpg
