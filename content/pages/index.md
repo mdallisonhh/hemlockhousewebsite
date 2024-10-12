@@ -35,6 +35,40 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: CtaSection
+    title: ''
+    text: ''
+    actions:
+      - type: Button
+        label: Order Online
+        altText: Order Online
+        url: hemlock-house.square.site
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: TextSection
     colors: colors-f
     variant: variant-b
@@ -108,38 +142,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: CtaSection
-    title: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Order Online
-        altText: Order Online
-        url: hemlock-house.square.site
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
 ---
