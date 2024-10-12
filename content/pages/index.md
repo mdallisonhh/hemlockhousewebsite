@@ -44,9 +44,7 @@ sections:
     actions: []
   - type: CtaSection
     title: ''
-    text: >
-      Special industry night food and beverage features, and industry workers
-      get 20% off their checks until midnight
+    text: ''
     actions:
       - type: Button
         label: See the menus
