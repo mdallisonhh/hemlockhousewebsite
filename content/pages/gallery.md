@@ -37,29 +37,19 @@ sections:
         caption: Uni Bucatini
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2591.jpg
-        altText: It's ... Green
-        caption: It's ... Green
-        elementId: ''
-      - type: ImageBlock
-        url: /images/IMG_2495.jpg
-        altText: Dante's Beak
-        caption: Dante's Beak
-        elementId: ''
-      - type: ImageBlock
-        url: /images/IMG_2630.jpg
-        altText: Kimchi Burger
-        caption: Kimchi Burger
-        elementId: ''
-      - type: ImageBlock
         url: /images/Pittsburgh Magazine.png
         altText: Pittsburgh Magazine
         caption: Pittsburgh Magazine
         elementId: ''
       - type: ImageBlock
-        url: /images/Talk Show.png
-        altText: Talk Pittsburgh
-        caption: Talk Pittsburgh
+        url: /images/IMG_2591.jpg
+        altText: It's ... Green
+        caption: It's ... Green
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_2630.jpg
+        altText: Kimchi Burger
+        caption: Kimchi Burger
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2335.jpg
@@ -70,6 +60,16 @@ sections:
         url: /images/IMG_2734-Enhanced-NR.jpg
         altText: Decor
         caption: Decor
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Talk Show.png
+        altText: Talk Pittsburgh
+        caption: Talk Pittsburgh
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_2495.jpg
+        altText: Dante's Beak
+        caption: Dante's Beak
         elementId: ''
     colors: colors-f
     spacing: 16
