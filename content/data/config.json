@@ -91,7 +91,7 @@
                 "type": "Button",
                 "label": "Reservations",
                 "altText": "",
-                "url": "/",
+                "url": "https://tableagent.com/pittsburgh/hemlock-house/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
