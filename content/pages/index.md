@@ -14,8 +14,9 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: |
-      ![](/images/Logo%20Only%20Text.svg)
+    text: >-
+      <img src="/images/Logo%20Only%20Text.svg" alt="Hemlock House"
+      width="50%"/>
     elementId: ''
     styles:
       self:
