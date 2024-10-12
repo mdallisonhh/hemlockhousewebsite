@@ -37,7 +37,7 @@ sections:
         caption: Uni bucatini
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/IMG_2591.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
