@@ -51,7 +51,7 @@ sections:
         altText: See the menus
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: chevronLeft
         iconPosition: right
         style: primary
         elementId: ''
