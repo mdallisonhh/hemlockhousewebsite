@@ -115,7 +115,7 @@ sections:
       - type: Button
         label: Order Online
         altText: Order Online
-        url: /
+        url: hemlock-house.square.site
         showIcon: true
         icon: arrowRight
         iconPosition: right
