@@ -6,13 +6,13 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Snacks Menu White Background SVG.svg
+  url: /images/Snacks Fonts to Outlines.svg
   altText: 'Beverages, Snacks, Conservas Menu'
   caption: 'Beverages, Snacks, Conservas Menu'
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Snacks Menu White Background SVG.svg
+  url: /images/Snacks Fonts to Outlines.svg
   altText: 'Beverages, Snacks, Conservas Menu'
   caption: 'Beverages, Snacks, Conservas Menu'
   elementId: ''
