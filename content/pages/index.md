@@ -92,7 +92,7 @@ sections:
     actions:
       - type: Button
         label: See the menus
-        altText: Featured Food & Drink
+        altText: See the menus
         url: /
         showIcon: true
         icon: arrowRight
