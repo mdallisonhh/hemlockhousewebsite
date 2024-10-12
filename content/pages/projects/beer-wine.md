@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Cocktails Liquor White Background SVG.svg
+  url: /images/Beer Wine White Background SVG.svg
   altText: 'Beer, Wine Menu'
   caption: 'Beer, Wine Menu'
   elementId: ''
