@@ -17,13 +17,13 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Dinner Menu White Background SVG.svg
+  url: /images/Dinner Fonts to Outlines.svg
   altText: Dinner Menu
   caption: Dinner Menu
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Dinner Menu White Background SVG.svg
+  url: /images/Dinner Fonts to Outlines.svg
   altText: Dinner Menu
   caption: Dinner Menu
   elementId: ''
