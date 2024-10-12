@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Logo PNG.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -10,13 +10,23 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Home",
+                "url": "/"
+            },
+            {
+                "type": "Link",
                 "label": "Menus",
                 "url": "/menu"
             },
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/"
+                "label": "Gift Cards",
+                "altText": "",
+                "url": "https://squareup.com/gift/MLKS77KNNHFEF/order",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
