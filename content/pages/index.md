@@ -41,7 +41,7 @@ sections:
     actions:
       - type: Button
         label: Order for Pickup
-        altText: Order Online
+        altText: Order for Pickup
         url: hemlock-house.square.site
         showIcon: true
         icon: arrowRight
