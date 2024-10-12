@@ -114,7 +114,7 @@ sections:
     actions:
       - type: Button
         label: Order Online
-        altText: ''
+        altText: Order Online
         url: /
         showIcon: true
         icon: arrowRight
