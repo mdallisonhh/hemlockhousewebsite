@@ -33,38 +33,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    title: ''
-    subtitle: Irreverent Food & Cocktails
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - type: TextSection
     colors: colors-f
     variant: variant-b
