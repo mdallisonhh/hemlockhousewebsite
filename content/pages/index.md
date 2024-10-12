@@ -113,7 +113,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Order Online
         altText: ''
         url: /
         showIcon: true
