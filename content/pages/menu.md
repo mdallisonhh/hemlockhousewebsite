@@ -2,6 +2,29 @@
 type: PageLayout
 title: Menus
 sections:
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: |
+      ![](/images/Logo%20Only%20Text.svg)
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: FeaturedProjectsSection
     subtitle: ''
     actions: []
@@ -35,29 +58,6 @@ sections:
       actions:
         justifyContent: center
     title: Menus
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: |
-      ![](/images/Logo%20Only%20Text.svg)
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 metaTags: []
 colors: colors-a
 backgroundImage:
