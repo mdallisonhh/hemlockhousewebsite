@@ -52,7 +52,7 @@
                 "type": "Link",
                 "label": "Pickup",
                 "altText": "Order for Pickup",
-                "url": "http://hemlock-house.square.site/",
+                "url": "http://hemlock-house.square.site/', '_blank');",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
