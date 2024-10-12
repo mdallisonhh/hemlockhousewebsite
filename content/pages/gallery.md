@@ -52,8 +52,7 @@ sections:
         caption: Crab and Bacon Hushpuppies
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/IMG_2335.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
