@@ -91,7 +91,7 @@ sections:
       get 20% off their checks until midnight
     actions:
       - type: Button
-        label: Featured Food & Drink
+        label: See the menus
         altText: Featured Food & Drink
         url: /
         showIcon: true
