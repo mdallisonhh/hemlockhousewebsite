@@ -128,6 +128,17 @@
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://www.ubereats.com/store/hemlock-house/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "contacts": {
