@@ -52,11 +52,6 @@ sections:
         caption: Kimchi Burger
         elementId: ''
       - type: ImageBlock
-        url: /images/Talk Show.png
-        altText: Talk Pittsburgh
-        caption: Talk Pittsburgh
-        elementId: ''
-      - type: ImageBlock
         url: /images/IMG_2335.jpg
         altText: Mac 'n' Cheese
         caption: Mac 'n' Cheese
@@ -65,6 +60,11 @@ sections:
         url: /images/IMG_2734-Enhanced-NR.jpg
         altText: Decor
         caption: Decor
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Talk Show.png
+        altText: Talk Pittsburgh
+        caption: Talk Pittsburgh
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2495.jpg
