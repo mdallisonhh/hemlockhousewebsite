@@ -65,7 +65,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: Talk Pittsburgh
-        caption: Caption of the image
+        caption: Talk Pittsburgh
         elementId: ''
     colors: colors-f
     spacing: 16
