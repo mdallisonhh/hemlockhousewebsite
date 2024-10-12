@@ -1,5 +1,5 @@
 ---
-type: PageLayout
+type: ProjectFeedLayout
 title: Menus
 sections:
   - type: HeroSection
