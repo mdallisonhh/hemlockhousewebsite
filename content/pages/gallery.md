@@ -52,6 +52,11 @@ sections:
         caption: Crab and Bacon Hushpuppies
         elementId: ''
       - type: ImageBlock
+        url: /images/Pittsburgh Magazine.png
+        altText: Pittsburgh Magazine
+        caption: Pittsburgh Magazine
+        elementId: ''
+      - type: ImageBlock
         url: /images/Talk Show.png
         altText: Talk Pittsburgh
         caption: Talk Pittsburgh
@@ -65,11 +70,6 @@ sections:
         url: /images/IMG_2734-Enhanced-NR.jpg
         altText: Decor
         caption: Decor
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Pittsburgh Magazine.png
-        altText: Pittsburgh Magazine
-        caption: Pittsburgh Magazine
         elementId: ''
     colors: colors-f
     spacing: 16
