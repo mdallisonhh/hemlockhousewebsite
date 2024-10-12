@@ -44,6 +44,29 @@ sections:
     actions: []
   - type: TextSection
     colors: colors-f
+    variant: variant-a
+    title: ''
+    text: |
+      ![](/images/Logo%20Only%20Text.svg)
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: TextSection
+    colors: colors-f
     variant: variant-b
     title: Hours of Operation
     subtitle: Open 7 Days a Week
@@ -72,29 +95,6 @@ sections:
       self:
         height: auto
         width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: |
-      ![](/images/Logo%20Only%20Text.svg)
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
         padding:
           - pt-28
           - pb-28
