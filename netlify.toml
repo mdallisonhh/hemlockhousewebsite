@@ -2,5 +2,11 @@
   publish = ".next"
   command = "npm run build"
 
+[[redirects]]
+  from = "/orders"
+  to = "https://hemlock-house.square.site"
+  status = 301
+  force = true
+
 [[plugins]]
   package = "@netlify/plugin-nextjs"
