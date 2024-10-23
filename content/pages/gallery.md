@@ -47,14 +47,14 @@ sections:
         caption: It's ... Green
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2630.jpg
-        altText: Kimchi Burger
-        caption: Kimchi Burger
-        elementId: ''
-      - type: ImageBlock
         url: /images/IMG_2335.jpg
         altText: Mac 'n' Cheese
         caption: Mac 'n' Cheese
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_2495.jpg
+        altText: Dante's Beak
+        caption: Dante's Beak
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_2734-Enhanced-NR.jpg
@@ -67,9 +67,9 @@ sections:
         caption: Talk Pittsburgh
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2495.jpg
-        altText: Dante's Beak
-        caption: Dante's Beak
+        url: /images/IMG_2630.jpg
+        altText: Kimchi Burger
+        caption: Kimchi Burger
         elementId: ''
     colors: colors-f
     spacing: 16
