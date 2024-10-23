@@ -52,14 +52,14 @@ sections:
         caption: Mac 'n' Cheese
         elementId: ''
       - type: ImageBlock
-        url: /images/IMG_2734-Enhanced-NR.jpg
-        altText: Decor
-        caption: Decor
-        elementId: ''
-      - type: ImageBlock
         url: /images/IMG_2495.jpg
         altText: Dante's Beak
         caption: Dante's Beak
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_2734-Enhanced-NR.jpg
+        altText: Decor
+        caption: Decor
         elementId: ''
       - type: ImageBlock
         url: /images/Talk Show.png
