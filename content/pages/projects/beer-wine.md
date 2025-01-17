@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Beer 17 January 3.svg
+  url: /images/Beer 17 January 4.svg
   altText: 'Beer, Wine Menu'
   caption: 'Beer, Wine Menu'
   elementId: ''
