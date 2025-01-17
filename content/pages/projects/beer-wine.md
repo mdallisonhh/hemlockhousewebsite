@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Beer Final.svg
-  altText: 'Beer, Wine Menu'
+  altText: 'Beer, Wine Menu '
   caption: 'Beer, Wine Menu'
   elementId: ''
 bottomSections: []
