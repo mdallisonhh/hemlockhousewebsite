@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Snacks Fonts to Outlines.svg
+  url: /images/Snacks.svg
   altText: 'Beverages, Snacks, Conservas Menu'
   caption: 'Beverages, Snacks, Conservas Menu'
   elementId: ''
