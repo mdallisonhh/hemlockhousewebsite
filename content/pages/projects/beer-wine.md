@@ -6,13 +6,13 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Beer Wine Fonts to Outlines.svg
+  url: /images/Beer Final.svg
   altText: 'Beer, Wine Menu'
   caption: 'Beer, Wine Menu'
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Beer Wine Fonts to Outlines.svg
+  url: /images/Beer Final.svg
   altText: 'Beer, Wine Menu'
   caption: 'Beer, Wine Menu'
   elementId: ''
