@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Snacks.svg
   altText: 'Beverages, Conservas, Desserts Menu'
-  caption: 'Beverages, Snacks, Conservas Menu'
+  caption: 'Beverages, Conservas, Desserts Menu'
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
