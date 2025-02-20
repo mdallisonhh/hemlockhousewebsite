@@ -17,7 +17,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Food.svg
+  url: /images/Dinner.svg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
