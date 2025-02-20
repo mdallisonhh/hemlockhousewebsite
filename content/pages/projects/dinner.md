@@ -23,7 +23,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Food.svg
+  url: /images/Dinner.svg
   altText: Dinner Menu
   caption: Dinner Menu
   elementId: ''
