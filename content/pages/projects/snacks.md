@@ -7,7 +7,7 @@ description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Beverage.svg
-  altText: 'Beverages, Snacks, Conservas Menu'
+  altText: ''
   caption: 'Beverages, Snacks, Conservas Menu'
   elementId: ''
 media:
