@@ -19,7 +19,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Dinner.svg
   altText: Dinner Menu
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
