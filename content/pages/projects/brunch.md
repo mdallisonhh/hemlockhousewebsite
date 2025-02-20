@@ -6,7 +6,7 @@ client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/Brunch Fonts to Outlines.svg
+  url: /images/Brunch.svg
   altText: Brunch Menu
   caption: Brunch Menu
   elementId: ''
