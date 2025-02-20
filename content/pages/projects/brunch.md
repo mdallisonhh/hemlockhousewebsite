@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Brunch
-date: '2024-10-11'
+date: '2024-11-11'
 client: ''
 description: ''
 media:
