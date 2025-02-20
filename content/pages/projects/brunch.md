@@ -8,7 +8,7 @@ media:
   type: ImageBlock
   url: /images/Brunch.svg
   altText: Brunch Menu
-  caption: Brunch Menu
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
