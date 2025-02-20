@@ -1,20 +1,20 @@
 ---
 type: ProjectLayout
 title: 'Cocktails, Liquor'
-date: '2025-01-17'
+date: '2025-02-20'
 client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Cocktails.svg
+  url: /images/Cocktails Liquor.svg
   altText: 'Cocktails, Liquor Menu'
-  caption: 'Cocktails, Liquor Menu'
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Cocktails.svg
+  url: /images/Cocktails Liquor.svg
   altText: 'Cocktails, Liquor Menu'
-  caption: 'Cocktails, Liquor Menu'
+  caption: ''
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
