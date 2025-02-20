@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Beer Wine Fixed.svg
   altText: 'Beer, Wine Menu'
-  caption: 'Beer, Wine Menu'
+  caption: ''
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
