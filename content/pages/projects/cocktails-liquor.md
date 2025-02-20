@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Cocktails Liquor.svg
   altText: 'Cocktails, Liquor Menu'
-  caption: 'Cocktails, Liquor Menu'
+  caption: ''
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
