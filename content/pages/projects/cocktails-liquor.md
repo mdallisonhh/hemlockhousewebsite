@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: 'Cocktails, Liquor'
-date: '2025-01-17'
+date: '2025-02-20'
 client: ''
 description: ''
 featuredImage:
