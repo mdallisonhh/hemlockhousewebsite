@@ -1,14 +1,14 @@
 ---
 type: ProjectLayout
 title: Brunch
-date: '2024-10-11'
+date: '2025-02-20'
 client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/Brunch Fonts to Outlines.svg
+  url: /images/Brunch.svg
   altText: Brunch Menu
-  caption: Brunch Menu
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
@@ -21,8 +21,8 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Brunch Fonts to Outlines.svg
+  url: /images/Brunch.svg
   altText: Brunch Menu
-  caption: Brunch Menu
+  caption: ''
   elementId: ''
 ---
