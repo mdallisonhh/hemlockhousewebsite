@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Snacks.svg
+  url: /images/Beverage.svg
   altText: 'Beverages, Snacks, Conservas Menu'
   caption: 'Beverages, Snacks, Conservas Menu'
   elementId: ''
