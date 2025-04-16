@@ -23,7 +23,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Dinner.svg
+  url: /images/Dinner Menu 16 April 2025.svg
   altText: Dinner Menu
   caption: ''
   elementId: ''
