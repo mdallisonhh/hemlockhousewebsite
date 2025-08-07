@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Dinner
-date: '2025-07-04'
+date: '2025-08-07'
 client: ''
 description: ''
 bottomSections: []
