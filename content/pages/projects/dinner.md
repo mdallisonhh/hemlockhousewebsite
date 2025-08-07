@@ -17,7 +17,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Snail Menu.svg
+  url: /images/7 August 2025.svg
   altText: Dinner Menu
   caption: ''
   elementId: ''
