@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Dinner
-date: '2025-07-04'
+date: '2025-08-07'
 client: ''
 description: ''
 bottomSections: []
@@ -17,13 +17,13 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Snail Menu.svg
+  url: /images/7 August 2025.svg
   altText: Dinner Menu
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Snail Menu.svg
+  url: /images/7 August 2025.svg
   altText: Dinner Menu
   caption: ''
   elementId: ''
