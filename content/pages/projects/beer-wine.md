@@ -12,9 +12,9 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Beer Wine Fixed.svg
-  altText: 'Beer, Wine Menu'
-  caption: ''
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
