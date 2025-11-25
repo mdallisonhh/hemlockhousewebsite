@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Cocktails Liquor.svg
+  url: /images/Liquor Cocktails 25 November.svg
   altText: 'Cocktails, Liquor Menu'
   caption: ''
   elementId: ''
