@@ -1,18 +1,18 @@
 ---
 type: ProjectLayout
 title: 'Beverages, Conservas, Desserts'
-date: '2025-02-20'
+date: '2025-11-25'
 client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Beverage.svg
+  url: /images/Conserves 25 November.svg
   altText: 'Beverages, Conservas, Desserts Menu'
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Beverage.svg
+  url: /images/Conserves 25 November.svg
   altText: 'Beverages, Conservas, Desserts Menu'
   caption: ''
   elementId: ''
