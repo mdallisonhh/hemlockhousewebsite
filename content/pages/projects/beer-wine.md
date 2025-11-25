@@ -1,20 +1,20 @@
 ---
 type: ProjectLayout
 title: 'Beer, Wine'
-date: '2025-02-17'
+date: '2025-11-25'
 client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Beer Wine Fixed.svg
+  url: /images/Beer Wine 25 November.svg
   altText: 'Beer, Wine Menu'
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Beer Wine Fixed.svg
-  altText: 'Beer, Wine Menu'
-  caption: ''
+  url: /images/Beer Wine 25 November.svg
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
