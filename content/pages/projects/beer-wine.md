@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: 'Beer, Wine'
-date: '2025-03-17'
+date: '2025-09-17'
 client: ''
 description: ''
 featuredImage:
