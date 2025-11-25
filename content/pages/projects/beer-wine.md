@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Beer Wine Fixed.svg
+  url: /images/Beer Wine 25 November.svg
   altText: 'Beer, Wine Menu'
   caption: ''
   elementId: ''
