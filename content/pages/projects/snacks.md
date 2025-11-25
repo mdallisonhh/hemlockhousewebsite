@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Beverage.svg
+  url: /images/Conserves 25 November.svg
   altText: 'Beverages, Conservas, Desserts Menu'
   caption: ''
   elementId: ''
