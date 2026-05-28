@@ -21,7 +21,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Brunch.svg
+  url: /images/Brunch 28 May SVG.svg
   altText: Brunch Menu
   caption: ''
   elementId: ''
