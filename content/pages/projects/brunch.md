@@ -1,12 +1,12 @@
 ---
 type: ProjectLayout
 title: Brunch
-date: '2025-02-20'
+date: '2026-05-28'
 client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/Brunch.svg
+  url: /images/Brunch 28 May SVG.svg
   altText: Brunch Menu
   caption: ''
   elementId: ''
@@ -21,7 +21,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Brunch.svg
+  url: /images/Brunch 28 May SVG.svg
   altText: Brunch Menu
   caption: ''
   elementId: ''
