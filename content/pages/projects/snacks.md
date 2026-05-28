@@ -6,9 +6,9 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Conserves 25 November.svg
-  altText: 'Beverages, Conservas, Desserts Menu'
-  caption: ''
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
 media:
   type: ImageBlock
