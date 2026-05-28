@@ -17,7 +17,7 @@ backgroundImage:
   opacity: 100
 featuredImage:
   type: ImageBlock
-  url: /images/Dinner 25 November.svg
+  url: /images/28 May Dinner SVG.svg
   altText: Dinner Menu
   caption: ''
   elementId: ''
