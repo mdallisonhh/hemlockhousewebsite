@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/28 May Dessert SVG.svg
   altText: 'Beverages, Conservas, Desserts'
-  caption: Caption of the image
+  caption: 'Beverages, Conservas, Desserts'
   elementId: ''
 media:
   type: ImageBlock
