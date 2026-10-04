@@ -6,13 +6,13 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/28 May Dessert SVG.svg
+  url: /images/4 October Drinks Conserves.svg
   altText: 'Beverages, Conservas, Desserts Menu'
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/28 May Dessert SVG.svg
+  url: /images/4 October Drinks Conserves.svg
   altText: 'Beverages, Conservas, Desserts Menu'
   caption: ''
   elementId: ''
