@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: 'Beverages, Conservas, Desserts'
-date: '2026-01-28'
+date: ''
 client: ''
 description: ''
 featuredImage:
